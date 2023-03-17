@@ -26,3 +26,4 @@ and invites)
 ### Notes:
 - Consider models as per your knowledge
 - Create Postman for above APIs
+-https://www.postman.com/sonalrawal/workspace/web-dev-sonal/collection/18202215-2e87a612-7919-4fa2-92ad-78f2bf77d345?action=share&creator=18202215
